@@ -5,9 +5,9 @@ Utiliza una operación lógica bit a bit para determinar a que red pertenece una
 
 Para calcular segun sus clasificaciones se basa en su estructura y en la cantidad de bits que se utlizan para identificar la red y los hots dentro de ella por ejemplo:
 
-***Clase A:*** Su máscara es de 255.0.0.0
+***Clase A:*** El primer bit era siempre 0
 
-***Clase B:***  Su máscara es de 255.255.0.0
+***Clase B:***  Los dos primeros bits eran 10 
 
-***Clase C:*** Su máscara es de 255.255.255.0
+***Clase C:*** Los tres primeros bits eran 110 
 
